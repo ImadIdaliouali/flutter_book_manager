@@ -2,6 +2,24 @@
 
 A Flutter application for searching and managing favorite books using the Open Library API and SQLite local storage.
 
+## Screenshots
+
+<div align="center">
+
+### Search Interface
+
+<img src="screenshots/search_interface.png" alt="Book search interface showing search field, search results with book covers, titles, authors, and heart icons for adding to favorites" width="300"/>
+
+### Book Details Page
+
+<img src="screenshots/book_details.png" alt="Detailed book view displaying large cover image, comprehensive book information including description and publication details, with prominent favorite button" width="300"/>
+
+### Favorites List
+
+<img src="screenshots/favorites_list.png" alt="Favorites management page showing saved books list with delete functionality and options to remove individual items or clear all favorites" width="300"/>
+
+</div>
+
 ## Features
 
 ### 🔍 Book Search
